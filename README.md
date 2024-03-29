@@ -12,6 +12,9 @@
 - Visualization of Demand Data to identify trends
 - Create multiple prediction models using the skforecast library
 
+## Libraries
+- Please find the required libraries in the notebook
+
 ## Getting Started
 1. Ensure you have Jupyter Notebook or JupyterLab installed.
 2. Install required Python libraries (as listed above).
