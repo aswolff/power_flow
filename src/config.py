@@ -9,7 +9,7 @@ MAX_PAGE_SIZE = 5000
 YEARS = 6
 END_DATE = date.today() - timedelta(days=2)
 START_DATE = date.today() - timedelta(days=(365*YEARS))
-API_KEY = "XuLtn8GWHFEYwPCNVJbMwMAL6QafUwnAscVu8HiN"
+API_KEY = ""
 
 # Default Region settings
 LAT_DEFAULT = 32.71
